@@ -15,7 +15,7 @@ Ha en logisk oppbygning på videoene deres.
   - Video om Javascript -> Du kan lage en fet [CV side](https://iuri.is) med Javascript.  
 Osv osv. You get it.
 
-***Forklar ting***. 
+***Forklar ting***.  
 Forklar hva du gjør. Hvorfor bruker du det verktøyet du bruker? Hvorfor importerer du den pakken du bruker osv. 
 
 ## Selve videoen:
