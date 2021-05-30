@@ -1,6 +1,6 @@
 # Video Workflow Eik fag 
 ## Anbefalt Applikasjoner
-Vi anbefaler dere å bruke OBS, men dere står fritt til å velge andre programmer. Bare husk at programmet burde kunne:
+Vi anbefaler dere å bruke [OBS](https://obsproject.com), men dere står fritt til å velge andre programmer. Bare husk at programmet burde kunne:
 * Ta opp video
 * Ta opp skjermen din
 * Ta opp lyd  
