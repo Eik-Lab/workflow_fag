@@ -43,3 +43,8 @@ Forklar hva du gjør. Hvorfor bruker du det verktøyet du bruker? Hvorfor import
 	```
 TLDR; Prøv å hold deg innenfor 10 min. Hvis videoen din blir for lang, del den opp. Hvis du sliter med å dele den opp er det bare å ta kontakt med Uzair på [Facebook](https://www.facebook.com/Mr.pakkis)
 eller mail(muaf@nmbu.no)
+
+
+## Linux
+Hvis du er linux bruker, og bruker Davinci, må du transcode videoene dine til et format som Davinci i linux støtter.
+Transcode.sh er et script som gjør dette for deg. 
